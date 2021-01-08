@@ -16,7 +16,7 @@
         "dist/**/*"
     ],
     "author": "GateIO",
-    "license": "UNLICENSED",
+    "license": "MIT",
     "dependencies": {
         "axios": "^0.19.2",
         "@types/node": "^8.10.48"
